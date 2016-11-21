@@ -23,8 +23,8 @@ header h1 span{
 #introduction p{
     font-size:20px;
 }
-#introduction span{
-    padding:30px 30px;
+#message{
+    padding:50px 0px;
     font-size:20px;
 }
 .panel-heading{
@@ -36,7 +36,3 @@ header h1 span{
 .panel-body span{
     font-size:16px;
 }
-/*#backimage img{
-    width:100%;
-    text-align:center;
-}*/
