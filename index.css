@@ -6,9 +6,6 @@
 body{
     background-color:#FFFFF0
 }
-body h3{
-    font-size:16px;
-}
 header{
     background-image: url(wall.jpg);
     background-size:cover;
@@ -17,20 +14,28 @@ header{
     color:#696969;
 }
 header h1{
-    padding-top:200px;
+    padding:200px 0px 30px 0px;
     font-size:60px
 }
 header h1 span{
     font-size:40px;
 }
-header h2{
-    padding-bottom:80px;
+#introduction p{
+    font-size:20px;
+}
+#introduction span{
+    padding:30px 30px;
     font-size:20px;
 }
 .panel-heading{
     font-size:20px;
 }
-
+.panel-body{
+    font-size:18px;
+}
+.panel-body span{
+    font-size:16px;
+}
 /*#backimage img{
     width:100%;
     text-align:center;
